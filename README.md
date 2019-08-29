@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/w16014936/Project%200.0/_apis/build/status/w16014936.pipelines-php?branchName=master)](https://dev.azure.com/w16014936/Project%200.0/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
