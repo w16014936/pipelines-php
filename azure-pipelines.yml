@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/php
 
 pool:
-  vmImage: 'vs2017-win2016'
+  vmImage: 'macos-10.13'
 
 variables:
   phpVersion: 7.2
